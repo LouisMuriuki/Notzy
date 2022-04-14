@@ -15,7 +15,10 @@ function AddNote({ handleNote }) {
             handleNote(noteText)
             setNoteText("")
         }
-        window.alert("Please add a note ")
+        else{
+            window.alert("Please add a note ")
+        }
+        
 
     }
     return (
