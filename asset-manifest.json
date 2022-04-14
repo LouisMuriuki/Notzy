@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notzy/static/css/main.86f19848.css",
+    "main.js": "/notzy/static/js/main.8a25563c.js",
+    "index.html": "/notzy/index.html",
+    "main.86f19848.css.map": "/notzy/static/css/main.86f19848.css.map",
+    "main.8a25563c.js.map": "/notzy/static/js/main.8a25563c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f19848.css",
+    "static/js/main.8a25563c.js"
+  ]
+}
