@@ -7,7 +7,7 @@ function Header({handleDarkMode}) {
   return (
     <div className='header'>
         <h1>Notzy</h1>
-        <button onC lick={onClick} className='save'>Light/Dark Mode</button>
+        <button onClick={onClick} className='save'>Light/Dark Mode</button>
     </div>
   )
 }
